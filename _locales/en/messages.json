@@ -1,0 +1,11 @@
+{
+    "extensionName": {
+        "message": "Twitter View Image"
+    },
+    "extensionDescription": {
+        "message": "Adds View Image to the context menu for gallery (multiple image) tweets on Twitter."
+    },
+    "menuItemViewImage": {
+        "message": "View Image"
+    }
+}

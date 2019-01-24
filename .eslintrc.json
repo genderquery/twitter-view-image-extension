@@ -1,0 +1,11 @@
+{
+    "root": true,
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
+    "env": {
+        "browser": true,
+        "webextensions": true
+    }
+}
