@@ -6,6 +6,7 @@ right-clicking on images showed in the gallery view for multiple image posts.
 Developed for Firefox, but should work on other browsers.
 
 ## To-do
+* Add "Copy Image" and "Copy Image Location"
 * [webext](https://github.com/mozilla/web-ext) integration
 * Test on other browsers
 * Unit tests
